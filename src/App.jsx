@@ -2,7 +2,6 @@ import React from 'react';
 import Hero from './components/Hero';
 import AsciiMarquee from './components/AsciiMarquee';
 import Features from './components/Features';
-import CTA from './components/CTA';
 import Footer from './components/Footer';
 
 function App() {
@@ -11,7 +10,6 @@ function App() {
       <Hero />
       <AsciiMarquee />
       <Features />
-      <CTA />
       <Footer />
     </div>
   );
